@@ -147,7 +147,7 @@ function Register() {
                     <div>
                       <label>
                         <input
-                          type="radio"
+                          type="checkbox"
                           name="productCategory"
                           value="Food"
                           checked={productDetails.productcategory === "Food"}
@@ -164,7 +164,7 @@ function Register() {
                     <div>
                       <label>
                         <input
-                          type="radio"
+                          type="checkbox"
                           name="productCategory"
                           value="Ink"
                           checked={productDetails.productcategory === "Ink"}
@@ -181,7 +181,7 @@ function Register() {
                     <div>
                       <label>
                         <input
-                          type="radio"
+                          type="checkbox"
                           name="productCategory"
                           value="Biochar"
                           checked={productDetails.productcategory === "Biochar"}
@@ -198,7 +198,7 @@ function Register() {
                     <div>
                       <label>
                         <input
-                          type="radio"
+                          type="checkbox"
                           name="productCategory"
                           value="Bioconcrete"
                           checked={
@@ -217,7 +217,7 @@ function Register() {
                     <div>
                       <label>
                         <input
-                          type="radio"
+                          type="checkbox"
                           name="productCategory"
                           value="Algae"
                           checked={productDetails.productcategory === "Algae"}
