@@ -63,8 +63,8 @@ function Headnav() {
 
           <li className="nav-item pe-3">
             <a href="/register">
-              <button type="button" className="btn btn-danger">
-                Logout
+              <button type="button" className="btn btn-primary">
+                Connect Wallet
               </button>
             </a>
           </li>
