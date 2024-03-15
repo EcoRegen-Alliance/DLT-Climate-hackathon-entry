@@ -10,6 +10,12 @@ const Sidenav = () => {
             <span>Dashboard</span>
           </a>
         </li>
+        <li className="nav-item">
+          <a href="register" className="nav-link collapsed">
+            <i className="bi bi-pencil"></i>
+            <span>Registration</span>
+          </a>
+        </li>
 
         <li className="nav-item">
           <a href="uploadsensor" className="nav-link collapsed">
