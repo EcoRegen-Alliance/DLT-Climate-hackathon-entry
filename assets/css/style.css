@@ -1,6 +1,6 @@
 
 /*--------------------------------------------------------------
-# General label 
+# General label z
 --------------------------------------------------------------*/
 :root {
   scroll-behavior: smooth;
@@ -207,6 +207,12 @@ h6 {
 .bg-dark-light {
   background-color: #d3d3d4;
   border-color: #d3d3d4;
+}
+
+#tag {
+  background-color: #e8e0e0;
+  padding: 5px;
+  border-radius: 20px;
 }
 
 /* Card  */

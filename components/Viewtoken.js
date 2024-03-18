@@ -59,9 +59,9 @@ function Dashboard() {
                   <div id="content">
                     <p>
                       Tokens currently minted based on tonnes of carbon derived
-                      from algae that have been sequestered  in approved end
+                      from algae that have been sequestered in approved end
                       forms. To pay to view more information on each tonne
-                      contact Sales. After net zero has been achieved tokens
+                      contact Sales. After net zero has been achieved tokens
                       will also be minted based on the creation of approved
                       non-sequestered carbon products, to help balance out the
                       total levels of carbon in the atmosphere sustainably.
