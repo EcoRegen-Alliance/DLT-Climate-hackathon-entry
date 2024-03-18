@@ -23,11 +23,7 @@ function Headnav() {
           </li>
 
           <li className="nav-item">
-            <a
-              class="nav-link nav-icon"
-              href="/notifications"
-              data-bs-toggle="dropdown"
-            >
+            <a class="nav-link nav-icon" href="/" data-bs-toggle="dropdown">
               <i className="bi bi-bell"></i>
               <span className="badge bg-primary badge-number">4</span>
             </a>
@@ -35,11 +31,7 @@ function Headnav() {
           {/* End Notification Nav */}
 
           <li className="nav-item">
-            <a
-              class="nav-link nav-icon"
-              href="/messages"
-              data-bs-toggle="dropdown"
-            >
+            <a class="nav-link nav-icon" href="/" data-bs-toggle="dropdown">
               <i className="bi bi-chat-left-text"></i>
               <span className="badge bg-success badge-number">3</span>
             </a>
@@ -48,7 +40,7 @@ function Headnav() {
           <li className="nav-item pe-3">
             <a
               className="nav-link nav-profile d-flex align-items-center pe-0"
-              href="/profile"
+              href="/"
               data-bs-toggle="dropdown"
             >
               <Image

@@ -58,10 +58,13 @@ function Dashboard() {
                   </h5>
                   <div id="content">
                     <p>
-                      Viewtoken to EcoReGen Alliance is a group of companies and
-                      organizations that have come together to build a better
-                      future, naturally. You are part of a community committed
-                      to net zero and beyond
+                      Tokens currently minted based on tonnes of carbon derived
+                      from algae that have been sequestered  in approved end
+                      forms. To pay to view more information on each tonne
+                      contact Sales. After net zero has been achieved tokens
+                      will also be minted based on the creation of approved
+                      non-sequestered carbon products, to help balance out the
+                      total levels of carbon in the atmosphere sustainably.
                     </p>
                   </div>
                 </div>
