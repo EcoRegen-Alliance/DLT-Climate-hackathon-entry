@@ -3,7 +3,7 @@ import React from "react";
 function Dashboard() {
   return (
     <>
-      <div classNameName="col-lg-12">
+      <div classNameName="col-12">
         <div className="pagetitle">
           <h1>Individual</h1>
           <nav>
@@ -16,7 +16,7 @@ function Dashboard() {
           </nav>
         </div>
 
-        <div className="col-lg-12">
+        <div className="col-12">
           <div className="row">
             <div className="col-xxl-4 col-xl-12">
               <div className="card info-card customers-card">

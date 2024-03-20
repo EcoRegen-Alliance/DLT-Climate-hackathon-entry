@@ -35,7 +35,7 @@ function Dashboard() {
   ];
   return (
     <>
-      <div classNameName="col-lg-12">
+      <div classNameName="col-12">
         <div className="pagetitle">
           <h1>Viewtoken</h1>
           <nav>
@@ -48,7 +48,7 @@ function Dashboard() {
           </nav>
         </div>
 
-        <div className="col-lg-12">
+        <div className="col-12">
           <div className="row">
             <div className="col-xxl-4 col-xl-12">
               <div className="card info-card customers-card">
@@ -143,7 +143,7 @@ function Dashboard() {
           </div>
         </div>
 
-        <div className="col-xxl-4 col-xl-12">
+        <div className="col-12">
           <div className="card info-card customers-card">
             <div className="card-body">
               <div className="d-flex justify-content-between align-items-center">

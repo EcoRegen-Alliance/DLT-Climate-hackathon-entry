@@ -3,7 +3,7 @@ import React from "react";
 function Support() {
   return (
     <>
-      <div classNameName="col-lg-12">
+      <div classNameName="col-12">
         <div className="pagetitle">
           <h1>Community and Support</h1>
           <nav>

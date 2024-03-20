@@ -40,7 +40,7 @@ function Register() {
 
   return (
     <>
-      <div className="col-lg-12">
+      <div className="col-12">
         <div className="pagetitle">
           <h1>Register</h1>
           <nav>
@@ -53,7 +53,7 @@ function Register() {
           </nav>
         </div>
 
-        <div className="col-xl-12">
+        <div className="col-12">
           <div className="card p-4">
             <form onSubmit={handleSubmit}>
               <div className="row gy-4">
