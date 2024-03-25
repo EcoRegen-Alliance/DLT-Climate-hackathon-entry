@@ -147,6 +147,7 @@ function Register() {
                     <div>
                       <label>
                         <input
+                          style={{ marginRight: "5px" }}
                           type="checkbox"
                           name="productCategory"
                           value="Food"
@@ -164,6 +165,7 @@ function Register() {
                     <div>
                       <label>
                         <input
+                          style={{ marginRight: "5px" }}
                           type="checkbox"
                           name="productCategory"
                           value="Ink"
@@ -181,6 +183,7 @@ function Register() {
                     <div>
                       <label>
                         <input
+                          style={{ marginRight: "5px" }}
                           type="checkbox"
                           name="productCategory"
                           value="Biochar"
@@ -198,6 +201,7 @@ function Register() {
                     <div>
                       <label>
                         <input
+                          style={{ marginRight: "5px" }}
                           type="checkbox"
                           name="productCategory"
                           value="Bioconcrete"
@@ -219,6 +223,7 @@ function Register() {
                         <input
                           type="checkbox"
                           name="productCategory"
+                          style={{ marginRight: "5px" }}
                           value="Algae"
                           checked={productDetails.productcategory === "Algae"}
                           onChange={(e) =>

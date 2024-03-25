@@ -161,7 +161,7 @@ function Dashboard() {
                 </div>
               </div>
               <div id="content">
-                <p>There are no token avialable to buy</p>
+                <p>There are no token available to buy</p>
               </div>
 
               <div className="d-flex justify-content-between align-items-center">
@@ -177,7 +177,7 @@ function Dashboard() {
                 </div>
               </div>
               <div id="content">
-                <p>You don't own any governace token</p>
+                <p>You don't own any governance token</p>
               </div>
 
               <div className="d-flex justify-content-between align-items-center">

@@ -149,6 +149,7 @@ function Dashboard() {
                 <div>
                   <label>
                     <input
+                      style={{ marginRight: "5px" }}
                       type="checkbox"
                       name="checkbox1"
                       checked={checkboxes.checkbox1}
@@ -161,6 +162,7 @@ function Dashboard() {
                 <div>
                   <label>
                     <input
+                      style={{ marginRight: "5px" }}
                       type="checkbox"
                       name="checkbox2"
                       checked={checkboxes.checkbox2}
@@ -172,6 +174,7 @@ function Dashboard() {
                 <div>
                   <label>
                     <input
+                      style={{ marginRight: "5px" }}
                       type="checkbox"
                       name="checkbox3"
                       checked={checkboxes.checkbox3}
