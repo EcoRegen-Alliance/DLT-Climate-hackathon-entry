@@ -65,7 +65,7 @@ function Dashboard() {
                                       className="form-select mx-2"
                                     >
                                       <option selected>
-                                        Supply chain Perticipats
+                                        Supply Chain Participants
                                       </option>
                                       <option>ACME</option>
                                       <option>ACME</option>
