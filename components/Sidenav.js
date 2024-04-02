@@ -40,7 +40,7 @@ const Sidenav = () => {
         </li>
         <li className="nav-item">
           <a href="/verifier" className="nav-link collapsed">
-            <i className="bi bi-cash"></i>
+            <i className="bi bi-patch-check"></i>
             <span>Token Verifier</span>
           </a>
         </li>
