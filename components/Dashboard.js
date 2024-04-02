@@ -200,7 +200,7 @@ function Dashboard() {
                           </div>
                         </div>
                       </div>
-                      <div className="col-lg-12">
+                      <div className="col-12">
                         <div className="info-box card">
                           <div className="d-flex justify-content-between align-items-center">
                             {/* First word with icon */}
