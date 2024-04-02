@@ -14,18 +14,30 @@ function Dashboard() {
     {
       id: 2,
       Eventid: 2,
-      Date: "01/07/2024",
+      Date: "01/02/2024",
       Verifier: "ACME Verifier",
       Status: "Paid",
-      Amount: "10.00",
+      Amount: "40.00",
       action: "Verify",
+    },
+  ];
+  const Fees = [
+    {
+      id: 1,
+      Date: "01/01/2024",
+      Amount: "10.00",
+    },
+    {
+      id: 2,
+      Date: "01/07/2024",
+      Amount: "6.00",
     },
   ];
   return (
     <>
       <div classNameName="col-12">
         <div className="pagetitle">
-          <h1>Verifier</h1>
+          <h1>Verification Tokens</h1>
           <nav>
             <ol className="breadcrumb">
               <li className="breadcrumb-item">
@@ -41,7 +53,7 @@ function Dashboard() {
             <div className="col-xxl-4 col-xl-12">
               <div className="card info-card customers-card">
                 <div className="card-body">
-                  <h5 className="card-title">Verification Tokens</h5>
+                  <h5 className="card-title">Tokens Verification</h5>
                   <div id="content">
                     <p>You've earned 0.0 tokens from verifying 0 events.</p>
                   </div>
@@ -126,6 +138,61 @@ function Dashboard() {
                       </table>
                     </div>
                   </div>
+                  <section className="section contact">
+                    <div className="row gy-4">
+                      <div className="col-xl-6">
+                        <div className="row">
+                          <div className="col-lg-12">
+                            <div className="col-12">
+                              <div
+                                style={{ padding: "10px" }}
+                                className="info-box card"
+                              >
+                                <h3>Verification Fees Balance</h3>
+                                <p>$0.00</p>
+                                <p>
+                                  List of the last payment to ACME Verifiers
+                                </p>
+                                <table className="table datatable">
+                                  <thead>
+                                    <tr>
+                                      <th scope="col">Date</th>
+
+                                      <th scope="col">Amount</th>
+                                    </tr>
+                                  </thead>
+                                  <tbody>
+                                    {Fees &&
+                                      Fees.length > 0 &&
+                                      Fees.map((token) => (
+                                        <tr key={token.id}>
+                                          <td>{token.Date}</td>
+
+                                          <td>{token.Amount}</td>
+                                        </tr>
+                                      ))}
+                                  </tbody>
+                                </table>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div className="col-xl-6">
+                        <div className="col-12">
+                          <div
+                            style={{ padding: "10px" }}
+                            className="info-box card"
+                          >
+                            <h3>Profit Per Verification Token</h3>
+                            <p>$0.00</p>
+                            <p>To date total</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
                 </div>
               </div>
             </div>
