@@ -1,10 +1,10 @@
 import Image from "next/image";
-import Individual from "../../components/Individual";
+import Analyzer from "../../components/Analyzer";
 
 export default function Home() {
   return (
     <>
-      <Individual />
+      <Analyzer />
     </>
   );
 }

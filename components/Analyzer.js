@@ -1,17 +1,17 @@
 import React from "react";
 
-function Dashboard() {
+function Analyzer() {
   return (
     <>
       <div classNameName="col-12">
         <div className="pagetitle">
-          <h1>Individual</h1>
+          <h1>Verifier</h1>
           <nav>
             <ol className="breadcrumb">
               <li className="breadcrumb-item">
                 <a href="/">Dashboard</a>
               </li>
-              <li className="breadcrumb-item active">Individual</li>
+              <li className="breadcrumb-item active">Analyzer</li>
             </ol>
           </nav>
         </div>
@@ -22,14 +22,14 @@ function Dashboard() {
               <div className="card info-card customers-card">
                 <div className="card-body">
                   <h5 className="card-title">
-                    Individual to the EcoReGen Alliance
+                    Verifier to the EcoReGen Alliance
                   </h5>
                   <div id="content">
                     <p>
-                      Individual to EcoReGen Alliance is a group of companies
-                      and organizations that have come together to build a
-                      better future, naturally. You are part of a community
-                      committed to net zero and beyond
+                      Verifier to EcoReGen Alliance is a group of companies and
+                      organizations that have come together to build a better
+                      future, naturally. You are part of a community committed
+                      to net zero and beyond
                     </p>
                   </div>
                 </div>
@@ -42,4 +42,4 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
+export default Analyzer;

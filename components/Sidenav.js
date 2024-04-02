@@ -33,9 +33,15 @@ const Sidenav = () => {
         {/* <li className="nav-heading">Pages</li> */}
 
         <li className="nav-item">
-          <a href="/" className="nav-link collapsed">
+          <a href="/analyzer" className="nav-link collapsed">
+            <i className="bi bi-graph-up"></i>
+            <span>Token Analyzer</span>
+          </a>
+        </li>
+        <li className="nav-item">
+          <a href="/verifier" className="nav-link collapsed">
             <i className="bi bi-cash"></i>
-            <span>Financing</span>
+            <span>Token Verifier</span>
           </a>
         </li>
         <li className="nav-item">
