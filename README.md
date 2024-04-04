@@ -24,7 +24,7 @@ Our system operates on a yearly cycle, with each cycle designed to absorb carbon
 To participate or learn more about our demo and the impact of your involvement:
 
 1. Register for an Account: Access detailed information and interactive demos.
-2. Explore the Litepaper: Understand the depth of our strategy and technology.
+2. Explore the Litepaper at https://ecoregen.earth: Understand the depth of our strategy and technology.
 3. Choose Your Contribution Path: From financial support to development, every effort counts.
 
 Project Setup and Contribution
