@@ -35,7 +35,7 @@ function Support() {
                     <i className="bi bi-envelope"></i>
                     <h3>Email Us</h3>
                     <p>
-                      ecogreen@gmail.com<br></br>ecosupport@mail.com
+                      Ecoregenalliance@gmail.com<br></br>ecosupport@mail.com
                     </p>
                   </div>
                 </div>

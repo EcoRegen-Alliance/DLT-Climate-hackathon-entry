@@ -15,7 +15,7 @@ function Headnav() {
             src={logo}
             alt=""
           />
-          <span className="d-none d-lg-block">EcogreenAlliance</span>
+          <span className="d-none d-lg-block">EcoRegenAlliance</span>
         </a>
         <i className="bi bi-list toggle-sidebar-btn"></i>
       </div>

@@ -19,7 +19,7 @@ function Analyzer() {
 
         <div className="col-12">
           <div className="row">
-            <div className="col-xxl-4 col-xl-12">
+            <div className="col-12">
               <div className="card info-card customers-card">
                 <div className="card-body">
                   <h5 className="card-title">ECO Token Analyzer</h5>
@@ -29,6 +29,7 @@ function Analyzer() {
                   <div className="col-12">
                     <Map />
                   </div>
+                  <br></br>
                   <section className="section contact">
                     <div className="row gy-4">
                       <div className="col-xl-6">

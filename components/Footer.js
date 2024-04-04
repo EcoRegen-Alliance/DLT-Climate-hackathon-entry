@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="copyright">
           &copy; Copyright{" "}
           <strong>
-            <span>Ecogreen Alliance</span>
+            <span>EcoRegen Alliance</span>
           </strong>
           . All Rights Reserved
         </div>

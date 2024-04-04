@@ -19,7 +19,7 @@ import "../assets/css/dashboard.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ecogreen Alliance",
+  title: "EcoRegen Alliance",
   description:
     "The EcoReGen Alliance is a group of companies and organizations that have come together to build a better future, naturally. You are part of a community committed to net zero and beyond",
 };
