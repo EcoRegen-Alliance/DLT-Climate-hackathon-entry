@@ -102,7 +102,7 @@ function Dashboard() {
                               >
                                 {/* First word with icon */}
                                 <div>
-                                  <h4>10.0</h4>
+                                  <h4>1.0</h4>
                                   <span>
                                     <p id="tag">TONNES</p>
                                   </span>
