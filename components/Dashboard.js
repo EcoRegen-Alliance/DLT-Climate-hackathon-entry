@@ -108,7 +108,7 @@ function Dashboard() {
                                   </span>
                                 </div>
                                 <div>
-                                  <h4>30.0</h4>
+                                  <h4>0.4</h4>
                                   <span>
                                     <p id="tag">ECOs</p>
                                   </span>
